@@ -1,7 +1,7 @@
 # amanpreeto7
  
 
-👋 Hi, I’m Amanpreet
+👋 Hi, I’m Amanpreet<br>
 👀 I’m interested in coding
 🌱 I’m currently working as Mobile Application Developer
 💞️ I’m looking to collaborate on mobile 
