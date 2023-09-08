@@ -1,6 +1,3 @@
-# amanpreeto7
- 
-
 👋 Hi, I’m Amanpreet Kaur<br>
 👀 I’m interested in coding<br>
 🌱 I’m currently working as Mobile Application Developer<br>
